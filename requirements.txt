@@ -1,0 +1,12 @@
+numpy>=1.20
+scipy>=1.7
+torch>=1.10
+smplx>=0.1.28
+trimesh>=3.9
+tqdm>=4.60
+loguru>=0.5
+PyYAML>=5.4
+omegaconf>=2.1
+
+# Optional: required only when optim_type="trust-ncg".
+torchtrustncg>=0.0.1
